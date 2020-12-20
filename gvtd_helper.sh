@@ -195,7 +195,9 @@ elif [ "$DISTRO" == "ManjaroLinux" ]
 	then
 		pacman -S vim qemu virt-manager ovmf dnsmasq ebtables iptables
 fi
-		
+
+systemctl enable libvirtd.service
+systemctl start libvirtd.service
 
 else
 #############
