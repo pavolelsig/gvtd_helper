@@ -1,6 +1,6 @@
 GVT-d Helper
 
-For a guide, visit:
+For a guide, visit: https://youtu.be/Tt4kHYO1S8U
 
 *This is a helper for passing through a supported Intel iGPU to a KVM virtual machine
 *Supported OSes: Ubuntu 20.04 and 20.10, Manjaro and PopOS
